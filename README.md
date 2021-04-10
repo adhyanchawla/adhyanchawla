@@ -2,7 +2,7 @@
 - 👀 I have keen interests in deep learning as well as development.
 - 🌱 I’m currently learning development (MERN STACK) and working on projects in development.
 - 📫 How to reach me 
-        LinkedIN: linkedin.com/in/adhyan-chawla-b39022186/
+        LinkedIN: https://www.linkedin.com/in/adhyan-chawla-b39022186/
         Email: adhyanchawla500@gmail.com
 <!---
 adhyanchawla/adhyanchawla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
