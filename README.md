@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @adhyanchawla, a pre-final year student pursuing Computer Science Engineering from Panjab University, Chandigarh
+- 👋 Hi, I’m @adhyanchawla, a Software Engineer having 1.5+ YOE in the backend domain
 - 📫 How to reach me 
         LinkedIN: https://www.linkedin.com/in/adhyan-chawla-b39022186/
         Email: adhyanchawla500@gmail.com
